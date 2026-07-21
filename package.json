@@ -1,0 +1,27 @@
+{
+  "name": "cesusc-devops03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro-alm/cesusc-devops03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pedro-alm/cesusc-devops03/issues"
+  },
+  "homepage": "https://github.com/pedro-alm/cesusc-devops03#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
