@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - develop
+      - estrutura-pastas
   workflow_dispatch:
 
 jobs:
